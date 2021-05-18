@@ -1,0 +1,29 @@
+{
+    "favoriteLocations": [
+        {
+            "title": "Brasil",
+            "imgSrc": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png",
+            "description": "Brazil (Portuguese: Brasil; Brazilian Portuguese: [bɾaˈziw]),[nt 4] officially the Federative Republic of Brazil,[a] is the largest country in both South America and Latin America. It covers an area of 8,515,767 square kilometres (3,287,956 sq mi), with a population of over 211 million. Brazil is the world's fifth-largest and sixth-most populous country, composed of 26 states and the Federal District. It is the largest country to have Portuguese as an official language and the only one in the Americas.[12][13] Brazil is one of the world's most multicultural and ethnically diverse nations, due to over a century of mass immigration from around the world.[14] It is also the most populous Roman Catholic-majority country, and its capital is Brasília, while the largest city is São Paulo."
+        },
+        {
+            "title": "Columbia",
+            "imgSrc": "https://my-trip.co.il/wp-content/uploads/2018/01/%D7%90%D7%99%D7%99-%D7%A8%D7%95%D7%A1%D7%90%D7%A8%D7%99%D7%95-%D7%98%D7%99%D7%95%D7%9C-%D7%9C%D7%A7%D7%95%D7%9C%D7%95%D7%9E%D7%91%D7%99%D7%94.jpg",
+            "description": "Colombia (/kəˈlʌmbiə/ (About this soundlisten) kə-LUM-bee-ə, /-ˈlɒm-/ -⁠LOM-;[12] Spanish: [koˈlombja] (About this soundlisten)), officially the Republic of Colombia,[a] is a country in South America with territories in North America. It is bounded on the north by the Caribbean Sea, the northwest by Panama, the south by Ecuador and Peru, the east by Venezuela, the southeast by Brazil, and the west by the Pacific Ocean. Colombia is composed of 32 departments and the Capital District of Bogotá, the country's largest city. It covers an area of 1,418,748 square kilometres (547,782 sq mi), with a population of 50 million. Colombia's rich cultural heritage reflects influences by various Amerindian civilisations, European settlement, forced African labour, and immigration from Europe and the Middle East. Spanish is the nation's official language, besides which over 70 languages are spoken."
+        },
+        {
+            "title": "Peru",
+            "imgSrc": "https://image.volunteerworld.com/2d184d0209bdf5580fbf3de5b222509dbb7ca5c2/peru-banner.jpg?auto=format&crop=right&fit=crop&h=410&w=700",
+            "description": "Peru (/pəˈruː/ (About this soundlisten); Spanish: Perú [peˈɾu]; Quechua: Piruw [pɪɾʊw];[8] Aymara: Piruw [pɪɾʊw]), officially the Republic of Peru (Spanish: About this soundRepública del Perú (help·info)), is a country in western South America. It is bordered in the north by Ecuador and Colombia, in the east by Brazil, in the southeast by Bolivia, in the south by Chile, and in the south and west by the Pacific Ocean. Peru is a megadiverse country with habitats ranging from the arid plains of the Pacific coastal region in the west to the peaks of the Andes mountains extending from the north to the southeast of the country to the tropical Amazon Basin rainforest in the east with the Amazon river.[9] At 1.28 million km2 (0.5 million mi2), Peru is the 19th largest country in the world, and the third largest in South America.."
+        },
+        {
+            "title": "Mexico",
+            "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzC04mp0unjI58Qsz2LE0QkCbhjNBVC3RUtQ&usqp=CAU",
+            "description": "Mexico (Spanish: México [ˈmexiko] (About this soundlisten); Nahuan languages: Mēxihco), officially the United Mexican States (Estados Unidos Mexicanos; EUM [esˈtaðos uˈniðoz mexiˈkanos] (About this soundlisten)), is a country in the southern portion of North America. It is bordered to the north by the United States; to the south and west by the Pacific Ocean; to the southeast by Guatemala, Belize, and the Caribbean Sea; and to the east by the Gulf of Mexico.[10] Mexico covers 1,972,550 square kilometers (761,610 sq mi),[11] making it the world's 13th-largest country by area; with approximately 126,014,024 inhabitants,[1] it is the 10th-most-populous country and has the most Spanish-speakers. Mexico is organized as a federation comprising 31 states and Mexico City,[12] its capital and largest metropolis. Other major urban areas include Guadalajara, Monterrey, Puebla, Toluca, Tijuana, Ciudad Juárez, and León.[13]"
+        },
+        {
+            "title": "Argentina",
+            "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM2wI2anfPwUdJvAeyLVNhuWTnLBRGyRAqgw&usqp=CAU",
+            "description": "Argentina (Spanish: [aɾxenˈtina]), officially the Argentine Republic[A] (Spanish: República Argentina), is a country in the southern half of South America. It shares the bulk of the Southern Cone with Chile to the west, and is also bordered by Bolivia and Paraguay to the north, Brazil to the northeast, Uruguay and the South Atlantic Ocean to the east, and the Drake Passage to the south. Argentina covers an area of 2,780,400 km2 (1,073,500 sq mi),[B] and is the largest Spanish-speaking nation in the world. It is the second-largest country in South America after Brazil, the fourth-largest country in the Americas, and the eighth-largest country in the world. Argentina is subdivided into twenty-three provinces, and one autonomous city, which is the federal capital of the nation, Buenos Aires. The provinces and the capital have their own constitutions, but exist under a federal system. Argentina claims sovereignty over a part of Antarctica, the Falkland Islands and South Georgia and the South Sandwich Islands."
+        }
+    ]
+}
